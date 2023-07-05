@@ -5,15 +5,15 @@ github_url: https://github.com/mlab-modules/R1S01
 homepage: false
 images:
 - doc/img/R1S01A_Bok_small.jpg
-- doc/src/Vozitko.jpg
 - doc/src/R1S01A_Bot_small.jpg
-- doc/src/R1S01A_Bok_small.jpg
 - doc/src/R1S01A_top_small.jpg
-- doc/html/R1S01A_Files/image007.jpg
-- doc/html/R1S01A_Files/image005.jpg
-- doc/html/R1S01A_Files/image002.jpg
-- doc/html/R1S01A_Files/image001.jpg
+- doc/src/R1S01A_Bok_small.jpg
+- doc/src/Vozitko.jpg
 - doc/html/R1S01A_Files/image006.jpg
+- doc/html/R1S01A_Files/image005.jpg
+- doc/html/R1S01A_Files/image001.jpg
+- doc/html/R1S01A_Files/image002.jpg
+- doc/html/R1S01A_Files/image007.jpg
 - doc/img/R1S01A_QRcode.png
 - doc/html/R1S01A_Files/image003.png
 - doc/html/R1S01A_Files/image004.png
